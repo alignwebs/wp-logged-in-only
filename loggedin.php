@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Logged-in-only-by-alignwebs
-Plugin URI: https://github.com/alignwebs
+Plugin URI: https://github.com/alignwebs/wp-logged-in-only
 Description: Lock down the whole WordPress site to prevent public access. Only logged-in users can view the site if this plugin is activated.
 Author: ALiGNWEBS
 Version: 1.0.0
